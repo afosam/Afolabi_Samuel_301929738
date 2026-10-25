@@ -1,7 +1,13 @@
-# Samuel Olalekan Afolabi — MIT 8103
+# MediStock NG Hospital Pharmacy Inventory
 
-Student ID: 301929738
+Samuel Olalekan Afolabi · Student ID 301929738
 
-MediStock NG: A Hospital Pharmacy and Medicine Inventory Management System
+The portfolio uses fictional records for MediStock NG Hospital Pharmacy Inventory.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Afolabi_Samuel_Olalekan_301929738_FinalSummary.md) · [PDF](Afolabi_Samuel_Olalekan_301929738_FinalSummary.pdf)
