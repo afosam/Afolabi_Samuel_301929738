@@ -10,7 +10,8 @@ CREATE TABLE portfolio."suppliers" (
   "active" boolean NOT NULL,
   CONSTRAINT "pk_suppliers" PRIMARY KEY ("supplier_id"),
   CONSTRAINT "uq_suppliers_0" UNIQUE ("supplier_name"),
-  CONSTRAINT "uq_suppliers_1" UNIQUE ("contact_email")
+  CONSTRAINT "uq_suppliers_1" UNIQUE ("contact_email"),
+  CONSTRAINT "supplier_name_nonempty" CHECK (btrim("supplier_name") <> '')
 );
 CREATE TABLE portfolio."medicines" (
   "medicine_id" bigint NOT NULL,

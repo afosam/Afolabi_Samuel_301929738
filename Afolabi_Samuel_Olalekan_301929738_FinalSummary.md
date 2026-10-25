@@ -8,7 +8,7 @@ My case study is MediStock NG Hospital Pharmacy Inventory. I designed the databa
 
 ## Portfolio 1: Database Design and Modelling
 
-I organised the relational design into 5 tables. Primary keys identify records, foreign keys preserve the links, and checks enforce the stated business rules. Inventory batch quantity_on_hand must be zero or greater. The normalisation examples show the sample data at 1NF, 2NF and 3NF. All 18 deliberately invalid inserts were rejected without changing the valid sample rows.
+I organised the relational design into 5 tables. Primary keys identify records, foreign keys preserve the links, and checks enforce the stated business rules. Inventory batch quantity_on_hand must be zero or greater. The normalisation examples show the sample data at 1NF, 2NF and 3NF. All 19 deliberately invalid inserts were rejected without changing the valid sample rows.
 
 ![MediStock NG Hospital Pharmacy Inventory ER diagram](images/Afolabi_Samuel_Olalekan_301929738_ERDiagram.png)
 
@@ -18,7 +18,7 @@ Figure 1. Tables, keys and relationships. PK: primary key; FK: foreign key; UK: 
 
 ## Portfolio 2: Query Processing and Optimisation
 
-I ran three SQL queries against the sample records. The join returned 1 rows and included AMX-2026-001 with Amoxicillin. For the index comparison, I used 25,000 separate performance rows. The median lookup time changed from 1.147 ms to 0.195 ms. Both phases returned the same records. The measured plan used the new index. These timings apply to this lookup and environment.
+I ran three SQL queries against the sample records. The join returned 1 row and included AMX-2026-001 with Amoxicillin. For the index comparison, I used 25,000 separate performance rows. The median lookup time changed from 1.147 ms to 0.195 ms. Both phases returned the same records. The measured plan used the new index. These timings apply to this lookup and environment.
 
 ## Portfolio 3: Transactions and Concurrency
 
@@ -59,4 +59,3 @@ I used GitHub Copilot and the portfolio generator to help prepare the database m
 - [MongoDB: replication](https://www.mongodb.com/docs/manual/replication/)
 - [MongoDB: sharding](https://www.mongodb.com/docs/manual/sharding/)
 - [Mermaid: ER diagrams](https://mermaid.js.org/syntax/entityRelationshipDiagram.html)
-

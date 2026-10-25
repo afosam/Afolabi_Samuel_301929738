@@ -12,7 +12,7 @@ I organised the data into suppliers, medicines, pharmacies, inventory_batches, d
 | inventory_batches | 1 |
 | dispensing_events | 1 |
 
-The 18 invalid inserts were rejected at their expected constraints, and the valid sample rows remained unchanged.
+The 19 invalid inserts were rejected at their expected constraints, and the valid sample rows remained unchanged.
 
 ## Files
 
@@ -31,4 +31,3 @@ Create a fresh PostgreSQL database. Run the schema first, then the sample data. 
 ## References
 
 - [PostgreSQL — constraints](https://www.postgresql.org/docs/17/ddl-constraints.html)
-
