@@ -16,13 +16,13 @@ The 19 invalid inserts were rejected at their expected constraints, and the vali
 
 ## Files
 
-- [Design](Afolabi_Samuel_Olalekan_301929738_P1_Design.md)
-- [ER diagram](Afolabi_Samuel_Olalekan_301929738_P1_ERDiagram.md)
-- [Normalisation](Afolabi_Samuel_Olalekan_301929738_P1_Normalisation.md)
-- [Schema](Afolabi_Samuel_Olalekan_301929738_P1_Schema.sql)
-- [Sample data](Afolabi_Samuel_Olalekan_301929738_P1_SampleData.sql)
-- [Constraint tests](Afolabi_Samuel_Olalekan_301929738_P1_ConstraintTests.sql)
-- [Table and constraint evidence](screenshots/Afolabi_Samuel_Olalekan_301929738_P1_DatabaseResults.png)
+- [Design](Afolabi_Samuel_301929738_P1_Design.md)
+- [ER diagram](Afolabi_Samuel_301929738_P1_ERDiagram.md)
+- [Normalisation](Afolabi_Samuel_301929738_P1_Normalisation.md)
+- [Schema](Afolabi_Samuel_301929738_P1_Schema.sql)
+- [Sample data](Afolabi_Samuel_301929738_P1_SampleData.sql)
+- [Constraint tests](Afolabi_Samuel_301929738_P1_ConstraintTests.sql)
+- [Table and constraint evidence](screenshots/Afolabi_Samuel_301929738_P1_DatabaseResults.png)
 
 ## Run the SQL
 

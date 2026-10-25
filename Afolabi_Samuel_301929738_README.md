@@ -10,4 +10,4 @@ The portfolio uses fictional records for MediStock NG Hospital Pharmacy Inventor
 - [Portfolio 4](portfolio-4-nosql/)
 - [Portfolio 5](portfolio-5-distributed-cloud/)
 
-[Final summary](Afolabi_Samuel_Olalekan_301929738_FinalSummary.md) · [PDF](Afolabi_Samuel_Olalekan_301929738_FinalSummary.pdf)
+[Final summary](Afolabi_Samuel_301929738_FinalSummary.md) · [PDF](Afolabi_Samuel_301929738_FinalSummary.pdf)

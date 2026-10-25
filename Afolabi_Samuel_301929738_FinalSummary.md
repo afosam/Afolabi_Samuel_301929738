@@ -10,7 +10,7 @@ My case study is MediStock NG Hospital Pharmacy Inventory. I designed the databa
 
 I organised the relational design into 5 tables. Primary keys identify records, foreign keys preserve the links, and checks enforce the stated business rules. Inventory batch quantity_on_hand must be zero or greater. The normalisation examples show the sample data at 1NF, 2NF and 3NF. All 19 deliberately invalid inserts were rejected without changing the valid sample rows.
 
-![MediStock NG Hospital Pharmacy Inventory ER diagram](images/Afolabi_Samuel_Olalekan_301929738_ERDiagram.png)
+![MediStock NG Hospital Pharmacy Inventory ER diagram](images/Afolabi_Samuel_301929738_ERDiagram.png)
 
 Figure 1. Tables, keys and relationships. PK: primary key; FK: foreign key; UK: unique value.
 
@@ -30,7 +30,7 @@ I used pharmacy_inventory_events for the case's event documents. MongoDB inserte
 
 ## Repository and evidence
 
-https://github.com/afosam/Afolabi_Samuel_Olalekan_301929738
+https://github.com/afosam/Afolabi_Samuel_301929738
 
 The portfolio folders contain the SQL and JavaScript, explanations, query plans, result tables and screenshots.
 

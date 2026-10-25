@@ -118,9 +118,9 @@ Execution Time: 0.195 ms
 
 ## Reproduce
 
-Use a fresh database with the Portfolio 1 schema and sample data. Run Afolabi_Samuel_Olalekan_301929738_P2_Queries.sql, then Afolabi_Samuel_Olalekan_301929738_P2_Optimisation.sql. The optimisation script creates a separate performance table and runs EXPLAIN (ANALYZE, BUFFERS).
+Use a fresh database with the Portfolio 1 schema and sample data. Run Afolabi_Samuel_301929738_P2_Queries.sql, then Afolabi_Samuel_301929738_P2_Optimisation.sql. The optimisation script creates a separate performance table and runs EXPLAIN (ANALYZE, BUFFERS).
 
-[Query screenshot](screenshots/Afolabi_Samuel_Olalekan_301929738_P2_QueryResults.png) · [Index comparison](screenshots/Afolabi_Samuel_Olalekan_301929738_P2_IndexComparison.png)
+[Query screenshot](screenshots/Afolabi_Samuel_301929738_P2_QueryResults.png) · [Index comparison](screenshots/Afolabi_Samuel_301929738_P2_IndexComparison.png)
 
 ## References
 
