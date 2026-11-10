@@ -47,7 +47,13 @@ I kept suppliers, medicines, pharmacies, inventory_batches, dispensing_events in
 
 ## AI-use declaration
 
-I used GitHub Copilot and the portfolio generator to help prepare the database model, scripts and explanations. The generator ran the PostgreSQL and MongoDB exercises, checked their outputs and captured the result images.  I remain responsible for checking and explaining the submitted work.
+### AI Use Declaration
+
+I used GitHub Copilot and an AI-assisted portfolio generator during the preparation of this assignment. These tools helped me develop and refine the database models, SQL and MongoDB scripts, and some of the technical explanations.
+
+The portfolio generator was also used to run the PostgreSQL and MongoDB exercises, check the results and capture screenshots showing the execution outputs.
+
+I reviewed the generated materials and results to ensure they were consistent with the assignment requirements. I take responsibility for the final submission, including the database designs, implementation decisions, analysis and explanations. I also remain responsible for understanding the work presented and being able to explain the processes and results.
 
 ## References
 
